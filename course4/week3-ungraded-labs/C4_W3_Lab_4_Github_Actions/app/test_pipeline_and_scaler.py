@@ -1,5 +1,6 @@
 from sklearn.pipeline import Pipeline
 from sklearn.preprocessing import StandardScaler
+from main import clf
 
 def test_pipeline_and_scaler():
 
